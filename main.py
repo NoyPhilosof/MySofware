@@ -1,0 +1,9 @@
+from click import click
+from welcome import welcome
+
+print ('This is a test. ')
+print()
+click()
+welcome()
+print()
+print('End.')
