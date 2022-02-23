@@ -3,3 +3,8 @@ def click():
     print('Click')
     print()
 
+ print 'ddd';
+ rub
+
+ 
+
